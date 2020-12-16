@@ -3,7 +3,7 @@
 Soy Jairo Iván Ordóñez, Ingeniero de Sistemas y fanático de la visualización de los datos
 
 
-- 🔭 Actualmente soy Líder del equipo BI
+- 🔭 Actualmente soy Líder de equipo BI
 - 🌱 Estoy estudiando una especialización en Analítica de datos
 - 🤔 Me gustaría aprender más sobre Python, R y todo lo que tiene que ver con la Ciencia de Datos
 - 💬 Mis fortalezas son SQL y Tableau!
